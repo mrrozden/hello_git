@@ -1,4 +1,4 @@
 # yeni kodlar
 print("yeni kodlar")
-#hello
-print("hello")
+#hi
+print("merhaba dünnyalı")

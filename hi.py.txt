@@ -1,2 +1,7 @@
 # yeni kodlar
 print("yeni kodlar")
+
+#function
+
+def hello():
+    print("hello")

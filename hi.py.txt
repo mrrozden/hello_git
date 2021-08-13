@@ -1,0 +1,2 @@
+# yeni kodlar
+print("yeni kodlar")
